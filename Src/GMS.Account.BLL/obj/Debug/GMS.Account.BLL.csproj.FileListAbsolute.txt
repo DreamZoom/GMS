@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Account.BLL.dll
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Account.BLL.pdb
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.dll
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.pdb
+D:\GMS\bin\GMS.Account.BLL.dll
+D:\GMS\bin\GMS.Account.BLL.pdb
+D:\GMS\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.csprojResolveAssemblyReference.cache
+D:\GMS\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.dll
+D:\GMS\Src\GMS.Account.BLL\obj\Debug\GMS.Account.BLL.pdb

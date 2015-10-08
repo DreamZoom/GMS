@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Web.dll
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Web.pdb
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Web\obj\Debug\GMS.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Web\obj\Debug\GMS.Web.dll
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Web\obj\Debug\GMS.Web.pdb
+D:\GMS\bin\GMS.Web.dll
+D:\GMS\bin\GMS.Web.pdb
+D:\GMS\Src\GMS.Web\obj\Debug\GMS.Web.csprojResolveAssemblyReference.cache
+D:\GMS\Src\GMS.Web\obj\Debug\GMS.Web.dll
+D:\GMS\Src\GMS.Web\obj\Debug\GMS.Web.pdb

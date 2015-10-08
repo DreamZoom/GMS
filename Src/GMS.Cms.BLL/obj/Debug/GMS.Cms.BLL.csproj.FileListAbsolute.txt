@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Cms.BLL.dll
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Cms.BLL.pdb
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.dll
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.pdb
+D:\GMS\bin\GMS.Cms.BLL.dll
+D:\GMS\bin\GMS.Cms.BLL.pdb
+D:\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.csprojResolveAssemblyReference.cache
+D:\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.dll
+D:\GMS\Src\GMS.Cms.BLL\obj\Debug\GMS.Cms.BLL.pdb

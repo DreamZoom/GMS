@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Core.Cache.dll
+C:\Users\Administrator\Desktop\GMS\GMS\bin\GMS.Core.Cache.pdb
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+C:\Users\Administrator\Desktop\GMS\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb
+D:\GMS\bin\GMS.Core.Cache.dll
+D:\GMS\bin\GMS.Core.Cache.pdb
+D:\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+D:\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+D:\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SettingConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <WebSiteTitle>GMS管理系统</WebSiteTitle>
+  <WebSiteDescription>测试系统</WebSiteDescription>
+  <WebSiteKeywords>GMS,管理系统,公司网站</WebSiteKeywords>
+  <Banners />
+</SettingConfig>

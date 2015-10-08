@@ -1,0 +1,54 @@
+﻿@model GMS.Core.Config.SettingConfig
+
+@{
+    ViewBag.Title = "网站设置";
+   
+}
+
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "mainForm" }))
+{
+
+    <div class="portlet-body form-horizontal form-bordered form-row-stripped">
+        <div class="row-fluid">
+
+            <div class="control-group">
+                <label class="control-label"><span class="required">*</span>站点标题：</label>
+                <div class="controls">
+                    @Html.TextBoxFor(m => m.WebSiteTitle, new { @class = "m-wrap small" })
+                    <span class="help-inline">@Html.ValidationMessageFor(m => m.WebSiteTitle)</span>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">描述：</label>
+                <div class="controls">
+                    @Html.TextAreaFor(m => m.WebSiteDescription, new { @class = "m-wrap small" })
+                    <span class="help-inline">@Html.ValidationMessageFor(m => m.WebSiteDescription)</span>
+                </div>
+            </div>
+
+
+            <div class="control-group">
+                <label class="control-label">关键字：</label>
+                <div class="controls">
+                    @Html.TextAreaFor(m => m.WebSiteKeywords, new { @class = "m-wrap small" })
+                    <span class="help-inline">@Html.ValidationMessageFor(m => m.WebSiteKeywords)</span>
+                </div>
+            </div>
+
+            @Html.HiddenFor(model => model.Id)
+        </div>
+    </div>
+
+   
+
+    <div class="form-actions ">
+        <button type="submit" id="submit" class="btn blue"><i class="icon-ok"></i> 提交</button>
+        <span id="submitloading" style="display:none;"></span>
+        <button type="button" class="btn" id="cancel">撤销</button>
+        @Html.ValidationSummary(false)
+    </div>
+}
+
+
